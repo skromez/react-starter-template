@@ -1,1 +1,1 @@
-React-Webpack Starter Template
+React Starter Template
